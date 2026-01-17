@@ -1,15 +1,12 @@
 ---
-title: "NK Blog"
-subtitle: "Creating a Blog Post for Your Audience"
+title: "Moneyball for Manga: Can Data Predict the Next *Demon Slayer*?"
+subtitle: "By Nishanth Kumarasamy"
 format: 
   html:
     toc: true
     toc-depth: 3
     theme: cosmo
 ---
-
-## Title: Moneyball for Manga: Can Data Predict the Next *Demon Slayer*?**
-*By Nishanth Kumarasamy*
 
 ### Introduction: The High Cost of a Missed Hit
 
